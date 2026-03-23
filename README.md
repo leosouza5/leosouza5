@@ -46,7 +46,12 @@ Meu foco é criar soluções completas, que não apenas funcionem, mas que sejam
 
 <p align="center">
   <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leosouza&show_icons=true&theme=transparent"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosouza5&layout=compact&theme=transparent"/>
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosouza5&layout=compact&theme=transparent"/> -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 ---
