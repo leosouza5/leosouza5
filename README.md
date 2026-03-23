@@ -67,6 +67,7 @@ Meu foco é criar soluções completas, que não apenas funcionem, mas que sejam
     src="https://raw.githubusercontent.com/leosouza5/leosouza5/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 ---
 
 ## Contato
